@@ -1,0 +1,6 @@
+# ivector-mean scp:exp/xvector_nnet_1a/xvectors_train/xvector.scp exp/xvector_nnet_1a/xvectors_train/mean.vec 
+# Started at Wed Dec  2 11:12:10 UTC 2020
+#
+ivector-mean scp:exp/xvector_nnet_1a/xvectors_train/xvector.scp exp/xvector_nnet_1a/xvectors_train/mean.vec 
+# Accounting: time=1 threads=1
+# Ended (code 0) at Wed Dec  2 11:12:11 UTC 2020, elapsed time 1 seconds
